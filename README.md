@@ -105,7 +105,7 @@ sudo snap install docker
 ```
 sudo pacman -S docker python
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ```
 
 ## Setting up config file
@@ -151,6 +151,8 @@ Note :- Above are the supported url shorteners. Except these only some url short
 Note: You can limit maximum concurrent downloads by changing the value of MAX_CONCURRENT_DOWNLOADS in aria.sh. By default, it's set to 4
  
 ## Getting Google OAuth API credential file
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 - Visit the [Google Cloud Console](https://console.developers.google.com/apis/credentials)
 - Go to the OAuth Consent tab, fill it, and save.
