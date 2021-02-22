@@ -104,6 +104,8 @@ sudo snap install docker
 - For Arch and it's derivatives:
 ```
 sudo pacman -S docker python
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 ```
 
 ## Setting up config file
