@@ -152,7 +152,7 @@ Note: You can limit maximum concurrent downloads by changing the value of MAX_CO
  
 ## Getting Google OAuth API credential file
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 
 - Visit the [Google Cloud Console](https://console.developers.google.com/apis/credentials)
 - Go to the OAuth Consent tab, fill it, and save.
